@@ -1,2 +1,2 @@
-# dio-desafio-github-curso-Criando-seu-primeiro-repositorio
- Desafio de projeto git/github
+# Repositorio do desafio de projeto sobre git/Github
+Desafio de projeto git/github
